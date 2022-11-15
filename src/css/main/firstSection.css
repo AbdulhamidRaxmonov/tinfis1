@@ -1,0 +1,18 @@
+.section{
+    width: 100%;
+    height: 70vh;
+}
+.div33{
+    height: 40vh;
+    background-color: aqua;
+    margin-left: 35px;
+    border: 2px solid red;
+}
+
+.div34{
+    width: 95%;
+    height: 40vh;
+}
+.div35{
+    --bs-gutter-x: 0rem;
+}
